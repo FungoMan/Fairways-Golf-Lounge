@@ -1,0 +1,13 @@
+.aboutus-title {
+    font-family: "STIX Two Text";
+}
+
+.aboutus-cauchuyenthuonghieu {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 130px;
+}
+
+.aboutus-cauchuyenthuonghieu h2 {}
